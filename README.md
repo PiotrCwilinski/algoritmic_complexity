@@ -1,4 +1,4 @@
-# Fibonacci 1
+# Fibonacci 1 (Rekurencyjny)
 ```py
 times_executed = 0
 def fib(n):
@@ -18,7 +18,7 @@ def fib(n):
 
 
 
-# Fibonacci 2
+# Fibonacci 2 (Iteracyjny)
 ```py
 def fib2(n):
     i = 0
