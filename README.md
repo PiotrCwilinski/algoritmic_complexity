@@ -50,8 +50,12 @@ Jak widać na wykresie Fibonacci 2 jest znacznie lepiej zoptymalizowanym kodem.
 
 # Piesek dla uwagi
 Piesek używający Fibonacciego 1
+
+
 ![image](https://user-images.githubusercontent.com/117569921/200168638-f777b2ad-4a50-4dd6-8b12-c17277439674.png)
 
+
 Piesek używający Fibonacciego 2
+
 
 ![image](https://user-images.githubusercontent.com/117569921/200168789-138300d6-49c8-4716-a4eb-67352b65b367.png)
