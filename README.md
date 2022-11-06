@@ -14,7 +14,8 @@ def fib(n):
         return False
 ```
 
-![stretched-2560-1440-742529](https://user-images.githubusercontent.com/117569921/200168216-0ab3d2f5-821c-458c-918d-38da1ae96cdc.png)
+![pobierz (1)](https://user-images.githubusercontent.com/117569921/200168266-83a43a45-1c03-4a68-87bb-b516401d44b2.png)
+
 
 
 # Fibonacci 2
@@ -33,4 +34,5 @@ def fib2(n):
     return fibs
 ```
 
-![stretched-2560-1440-742529](https://user-images.githubusercontent.com/117569921/200167993-249acaf2-79ee-4f97-806c-602a351b5a64.png)
+![pobierz](https://user-images.githubusercontent.com/117569921/200168256-280e3249-1c65-4cf9-a4db-c774c6cd0deb.png)
+
