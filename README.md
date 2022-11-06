@@ -1,3 +1,20 @@
+# Fibonacci 1
+```py
+times_executed = 0
+def fib(n):
+    global times_executed
+    times_executed = times_executed + 1
+    if n < 0:
+        return False
+    elif n == 0:
+        return 1
+    elif n > 0:
+        return fib(n - 1) + fib(n - 2)
+    else:
+        return False
+```
+
+# Fibonacci 2
 ```py
 def fib2(n):
     i = 0
