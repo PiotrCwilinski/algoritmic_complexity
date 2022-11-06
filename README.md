@@ -14,6 +14,9 @@ def fib(n):
         return False
 ```
 
+![stretched-2560-1440-742529](https://user-images.githubusercontent.com/117569921/200168216-0ab3d2f5-821c-458c-918d-38da1ae96cdc.png)
+
+
 # Fibonacci 2
 ```py
 def fib2(n):
@@ -29,7 +32,5 @@ def fib2(n):
         b = a + b
     return fibs
 ```
-![OIP](https://user-images.githubusercontent.com/117569921/200165775-5e0ed8b3-fa27-42f2-9559-4cef266a69cd.jpg)
 
-
-# Tytuł
+![stretched-2560-1440-742529](https://user-images.githubusercontent.com/117569921/200167993-249acaf2-79ee-4f97-806c-602a351b5a64.png)
