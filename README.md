@@ -34,7 +34,8 @@ def fib2(n):
     return fibs
 ```
 
-![pobierz](https://user-images.githubusercontent.com/117569921/200168256-280e3249-1c65-4cf9-a4db-c774c6cd0deb.png)
+
+![pobierz (3)](https://user-images.githubusercontent.com/117569921/200168964-7fec88a5-72c8-40f1-9da7-80ca487dedb3.png)
 
 
 
