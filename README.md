@@ -36,3 +36,13 @@ def fib2(n):
 
 ![pobierz](https://user-images.githubusercontent.com/117569921/200168256-280e3249-1c65-4cf9-a4db-c774c6cd0deb.png)
 
+
+
+# Porównanie Fibonacci 1 i Fibonacci 2
+
+Wykres przedstawia zależność czasu od liczby Fibonacciego.
+Kolor pomarańczowy przedstawia funkcję przy użyciu Fibonacciego 1.
+Kolor niebieski przedstawia funkcję przy użyciu Fibonacciego 2
+Jak widać na wykresie Fibonacci 2 jest znacznie lepiej zoptymalizowanym kodem.
+
+![pobierz (2)](https://user-images.githubusercontent.com/117569921/200168319-ad1cc62b-24f4-4e27-b00a-3158bf84e545.png)
